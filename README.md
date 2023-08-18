@@ -6,6 +6,9 @@ This is a website made for buisnesses to easily access information on how their 
 
 This website was updated to meet accessibility standards. Now anyone can access these helpful tips and tricks to improve their businesses online presence. 
 
+## Screenshot(s)
+![Alt text](assets/images/01-html-css-git-homework-demo.png)
+
 ## Installation
 
 N/A
